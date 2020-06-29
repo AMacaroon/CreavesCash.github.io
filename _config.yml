@@ -1,9 +1,9 @@
-title: Saul's nameless blog
+title: I done did a blog
 author:
   name: CreavesCash
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  This blog has no name yet, will do it later.
+  this is blogs for things I done did
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
