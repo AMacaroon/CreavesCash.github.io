@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a blog that is nameless... I'll do it later.
+This is a blog for things that I done did
